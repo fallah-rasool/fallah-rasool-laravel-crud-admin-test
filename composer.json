@@ -1,0 +1,20 @@
+{
+    "name": "fallah/crud",
+    "description": "This is a test package for sending and displaying user information",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fallah\\Crud\\": "packages/crud/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fallah rasool",
+            "email": "fallah.rasol@gmail.com"
+        }
+    ],
+
+    "require": {
+         "illuminate/support": ">=v7.0.0"
+    }
+}
