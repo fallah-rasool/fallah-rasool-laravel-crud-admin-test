@@ -26,9 +26,9 @@ Install :
  ```bash
  php artisan vendor:publish --provider="Fallah\Crud\CrudServiceProvider"
   ```
-اکنون باید در مروگر ادرس
+اکنون باید در مروگر ادرس زیر را وارد کنید تا اولین اطلاعات در دیتابیس ذخیره شود
  ```bash
  http://127.0.0.1:8000/admin/create
  ```
-را وارد کنید تا اولین اطلاعات در دیتابیس ذخیره شود 
+ 
 
