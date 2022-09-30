@@ -30,5 +30,6 @@ Install :
  ```bash
  http://127.0.0.1:8000/admin/create
  ```
+ ![2022-09-30_105002](https://user-images.githubusercontent.com/34611256/193328256-46f3d1a4-c50e-44eb-bc97-38d0b1f1e82e.png)
  
 
