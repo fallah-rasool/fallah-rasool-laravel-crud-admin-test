@@ -1,12 +1,12 @@
 # این یک پروزه تست برای ایجاد پکیج است
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 ## نحوه استفاده:
 بعد از نصب لاراول باید یک دیتابس ایجاد کنید و تنظیمات فایل env  را انجام دهیم
 فقط کافی است یک نام برای دیتابیس تعیین کنید و در  phpmyadmin نیز آن را بسازید 
 حالا نوبت این است با دستور: 
-
+```bash
 ### composer require fallah/crud
-
+```
 این پکیج را نصب کنید  بعد از اینکه مطمن شدید در پوشه vendor\fallah فایل های پکیج  قرار گرفته است باید به فایل\config\app.phpرفته و در قسمت providers   کد 
 ### Fallah\Crud\CrudServiceProvider::class,
 قرار دهیم همچنین در همین فایل باید در قسمت aliases نیز کد زیر 
